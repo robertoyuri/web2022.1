@@ -1,0 +1,15 @@
+body{
+    background-color: white;
+}
+h1{
+    margin-left: 200px;
+}
+.titulo{
+    font-family: "Arial Black";
+    font-size: 110px;
+    color: #ff09dd;
+    border: 20px solid blue;
+    text-align: center;
+    text-shadow: 5px 3px 1px black;
+    background-image: url("bg.svg");
+}
