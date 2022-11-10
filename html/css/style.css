@@ -11,5 +11,5 @@ h1{
     border: 20px solid blue;
     text-align: center;
     text-shadow: 5px 3px 1px black;
-    background-image: url("bg.svg");
+    background-image: url("../images/bg.svg");
 }
